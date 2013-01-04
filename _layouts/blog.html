@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>{{ page.title }}</title>
+    {% include head.html %}
+    {% include meta.html %}
+  </head>
+  <body>
+    <div class=container>
+      <div class="row">
+        <div class="offset2 span12">
+          {% assign blog="current" %}
+          {% include header.html %}
+          <div id=main>
+            <article>
+            <h1>{{page.title}}</h1>
+            <div class=row>
+              <div class=span8>
+                <time pubdate class="timeago" datetime="{{page.date | date:"%FT%TZ"}}">{{ page.date | date_to_string }}</time>
+                in
+                {% for category in page.categories %}
+                  <a href="/{{ category }}.html"> {{ category }}</a>
+                {% endfor %}
+              </div>
+              <div class=span4>
+                {% include share.html %}
+              </div>
+            </div>
+            <div class=content>
+              <div class=row>
+                <div class=span12>
+                  {{ content }}
+                </div>
+              </div>
+              {% include share.html %}
+              <div class=comment-section>
+                {% include disqus.html %}
+              </div>
+              </article>
+            </div>
+            {% include top.html %}
+            <div id="follow-me" style="display:none">
+              <p>Like the post?</p>
+              <a href="https://twitter.com/lucapette" class="twitter-follow-button" data-show-count="false">Follow @lucapette</a>
+              <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+            </div>
+            {% include footer.html %}
+          </div>
+        </div>
+      </div>
+    </div>
+    {% include ribbon.html %}
+  </body>
+</html>

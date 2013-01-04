@@ -8,8 +8,3 @@ keywords:
   <p>This is the course website for Musicianship II (MUSI 199), spring 2013, at Charleston Southern University. See links above for syllabus, assignments, and course objectives. Follow the course hashtag on Twitter: #musi199</p>
 </div>
 
-<ul id=archive>
-  {% for post in site.posts %}
-    <li><span class=date>{{ post.date | date:"%d-%m-%Y"  }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>

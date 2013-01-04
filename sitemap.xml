@@ -16,7 +16,7 @@ pages:
     {% endfor %}
     {% for post in site.posts %}
     <url>
-        <loc>http://lucapette.com{{ post.url }}</loc>
+        <loc>http://kshaffer.github.com/musi199{{ post.url }}</loc>
         <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
         <changefreq>hourly</changefreq>
     </url>

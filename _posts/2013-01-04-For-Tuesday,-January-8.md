@@ -2,7 +2,7 @@
 title: For Tuesday, January 8
 description: assignment
 keywords: 
-category: myself
+category: assignments
 layout: blog
 ---
 

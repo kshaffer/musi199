@@ -1,7 +1,7 @@
 auto: true
 permalink: /:categories/:title
 exclude:
-- README.markdown
+- README.md
 - .rvmrc
 - Gemfile
 - Gemfile.lock

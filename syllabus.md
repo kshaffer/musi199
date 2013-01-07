@@ -105,7 +105,7 @@ No late submissions or assessments will be allowed after unit deadlines, with th
 * Karpinski, Gary. *Manual for Ear Training and Sight Singing*. W.W. Norton, Co. ISBN-13: 978-0-3-9397663-2.  
 * Karpinski, Gary. *Anthology for Sight-Singing*. W.W. Norton, Co. ISBN-13: 978-0-3-9397382-2.
 * Headphones with good clarity and bass response.
-* A 1/4" male stereo headphone jack to 1/8" female stereo headphone adapter.  
+* A 1/4" male stereo headphone jack to 1/8" female stereo headphone adapter. (Something like [this][RS] or [this][CTG].)  
 * A semester license to [Learning Catalytics][LC].
 
 ### Recommended, but not required ###

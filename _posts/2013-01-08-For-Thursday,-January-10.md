@@ -1,5 +1,5 @@
 ---
-title: For Thursday, January 10 ()UPDATED)
+title: For Thursday, January 10 (UPDATED)
 description: assignment
 keywords: 
 category: assignments

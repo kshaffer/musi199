@@ -1,22 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Luca Pette</title>
- <link href="http://lucapette.com/atom.xml" rel="self"/>
- <link href="http://lucapette.com/"/>
- <updated>2013-01-04T21:08:50-05:00</updated>
- <id>http://lucapette.com</id>
+ <title>Musicianship II</title>
+ <link href="http://kshaffer.github.com/musi199/atom.xml" rel="self"/>
+ <link href="http://kshaffer.github.com/musi199/"/>
+ <updated>2013-01-09T19:03:31-05:00</updated>
+ <id>http://kshaffer.github.com/musi199</id>
  <author>
-   <name>Luca Pette</name>
-   <email>lucapette@gmail.com</email>
+   <name>Kris Shaffer</name>
+   <email>kshaffer@csuniv.edu</email>
  </author>
  
  
  <entry>
+   <title>Prep for Friday, January 11</title>
+   <link href="http://kshaffer.github.com/musi199/assignments/For-Friday%2C-January-11"/>
+   <updated>2013-01-09T00:00:00-05:00</updated>
+   <id>http://kshaffer.github.com/musi199/assignments/For-Friday,-January-11</id>
+   <content type="html">assignment</content>
+ </entry>
+ 
+ <entry>
+   <title>Headphone specs</title>
+   <link href="http://kshaffer.github.com/musi199/assignments/Headphone-specs"/>
+   <updated>2013-01-08T00:00:00-05:00</updated>
+   <id>http://kshaffer.github.com/musi199/assignments/Headphone-specs</id>
+   <content type="html">assignment</content>
+ </entry>
+ 
+ <entry>
+   <title>For Thursday, January 10 (UPDATED)</title>
+   <link href="http://kshaffer.github.com/musi199/assignments/For-Thursday%2C-January-10"/>
+   <updated>2013-01-08T00:00:00-05:00</updated>
+   <id>http://kshaffer.github.com/musi199/assignments/For-Thursday,-January-10</id>
+   <content type="html">assignment</content>
+ </entry>
+ 
+ <entry>
+   <title>For Wednesday, January 9</title>
+   <link href="http://kshaffer.github.com/musi199/assignments/For-Wednesday%2C-January-9"/>
+   <updated>2013-01-05T00:00:00-05:00</updated>
+   <id>http://kshaffer.github.com/musi199/assignments/For-Wednesday,-January-9</id>
+   <content type="html">assignment</content>
+ </entry>
+ 
+ <entry>
    <title>For Tuesday, January 8</title>
-   <link href="http://lucapette.com/assignments/For-Tuesday%2C-January-8"/>
+   <link href="http://kshaffer.github.com/musi199/assignments/For-Tuesday%2C-January-8"/>
    <updated>2013-01-04T00:00:00-05:00</updated>
-   <id>http://lucapette.com/assignments/For-Tuesday,-January-8</id>
+   <id>http://kshaffer.github.com/musi199/assignments/For-Tuesday,-January-8</id>
    <content type="html">assignment</content>
  </entry>
  

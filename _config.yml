@@ -1,4 +1,4 @@
-auto: true
+auto: false
 permalink: /:categories/:title
 exclude:
 - README.md

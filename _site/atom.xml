@@ -4,13 +4,29 @@
  <title>Musicianship II</title>
  <link href="http://kshaffer.github.com/musi199/atom.xml" rel="self"/>
  <link href="http://kshaffer.github.com/musi199/"/>
- <updated>2013-01-09T19:03:31-05:00</updated>
+ <updated>2013-01-11T17:52:12-05:00</updated>
  <id>http://kshaffer.github.com/musi199</id>
  <author>
    <name>Kris Shaffer</name>
    <email>kshaffer@csuniv.edu</email>
  </author>
  
+ 
+ <entry>
+   <title>For Monday, January 14</title>
+   <link href="http://kshaffer.github.com/musi199/assignments/For-Monday%2C-January-14"/>
+   <updated>2013-01-11T00:00:00-05:00</updated>
+   <id>http://kshaffer.github.com/musi199/assignments/For-Monday,-January-14</id>
+   <content type="html">assignment</content>
+ </entry>
+ 
+ <entry>
+   <title>For Tuesday, January 15</title>
+   <link href="http://kshaffer.github.com/musi199/assignments/For-Tuesday%2C-January-15"/>
+   <updated>2013-01-09T00:00:00-05:00</updated>
+   <id>http://kshaffer.github.com/musi199/assignments/For-Tuesday,-January-15</id>
+   <content type="html">assignment</content>
+ </entry>
  
  <entry>
    <title>Prep for Friday, January 11</title>

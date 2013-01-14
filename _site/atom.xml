@@ -4,7 +4,7 @@
  <title>Musicianship II</title>
  <link href="http://kshaffer.github.com/musi199/atom.xml" rel="self"/>
  <link href="http://kshaffer.github.com/musi199/"/>
- <updated>2013-01-11T17:52:12-05:00</updated>
+ <updated>2013-01-14T16:04:50-05:00</updated>
  <id>http://kshaffer.github.com/musi199</id>
  <author>
    <name>Kris Shaffer</name>
@@ -13,18 +13,50 @@
  
  
  <entry>
-   <title>For Monday, January 14</title>
-   <link href="http://kshaffer.github.com/musi199/assignments/For-Monday%2C-January-14"/>
-   <updated>2013-01-11T00:00:00-05:00</updated>
-   <id>http://kshaffer.github.com/musi199/assignments/For-Monday,-January-14</id>
+   <title>For Tuesday, January 22 (performance assessment)</title>
+   <link href="http://kshaffer.github.com/musi199/assignments/For-January-22-%28Tuesday%29"/>
+   <updated>2013-01-14T00:00:00-05:00</updated>
+   <id>http://kshaffer.github.com/musi199/assignments/For-January-22-(Tuesday)</id>
+   <content type="html">assignment</content>
+ </entry>
+ 
+ <entry>
+   <title>For Friday, January 18</title>
+   <link href="http://kshaffer.github.com/musi199/assignments/For-January-18-%28Friday%29"/>
+   <updated>2013-01-14T00:00:00-05:00</updated>
+   <id>http://kshaffer.github.com/musi199/assignments/For-January-18-(Friday)</id>
+   <content type="html">assignment</content>
+ </entry>
+ 
+ <entry>
+   <title>For Thursday, January 17</title>
+   <link href="http://kshaffer.github.com/musi199/assignments/For-January-17-%28Thursday%29"/>
+   <updated>2013-01-14T00:00:00-05:00</updated>
+   <id>http://kshaffer.github.com/musi199/assignments/For-January-17-(Thursday)</id>
+   <content type="html">assignment</content>
+ </entry>
+ 
+ <entry>
+   <title>For Wednesday, January 16</title>
+   <link href="http://kshaffer.github.com/musi199/assignments/For-January-16-%28Wednesday%29"/>
+   <updated>2013-01-14T00:00:00-05:00</updated>
+   <id>http://kshaffer.github.com/musi199/assignments/For-January-16-(Wednesday)</id>
    <content type="html">assignment</content>
  </entry>
  
  <entry>
    <title>For Tuesday, January 15</title>
    <link href="http://kshaffer.github.com/musi199/assignments/For-Tuesday%2C-January-15"/>
-   <updated>2013-01-09T00:00:00-05:00</updated>
+   <updated>2013-01-11T00:00:00-05:00</updated>
    <id>http://kshaffer.github.com/musi199/assignments/For-Tuesday,-January-15</id>
+   <content type="html">assignment</content>
+ </entry>
+ 
+ <entry>
+   <title>For Monday, January 14</title>
+   <link href="http://kshaffer.github.com/musi199/assignments/For-Monday%2C-January-14"/>
+   <updated>2013-01-09T00:00:00-05:00</updated>
+   <id>http://kshaffer.github.com/musi199/assignments/For-Monday,-January-14</id>
    <content type="html">assignment</content>
  </entry>
  
@@ -57,14 +89,6 @@
    <link href="http://kshaffer.github.com/musi199/assignments/For-Wednesday%2C-January-9"/>
    <updated>2013-01-05T00:00:00-05:00</updated>
    <id>http://kshaffer.github.com/musi199/assignments/For-Wednesday,-January-9</id>
-   <content type="html">assignment</content>
- </entry>
- 
- <entry>
-   <title>For Tuesday, January 8</title>
-   <link href="http://kshaffer.github.com/musi199/assignments/For-Tuesday%2C-January-8"/>
-   <updated>2013-01-04T00:00:00-05:00</updated>
-   <id>http://kshaffer.github.com/musi199/assignments/For-Tuesday,-January-8</id>
    <content type="html">assignment</content>
  </entry>
  

@@ -3,31 +3,55 @@
     
     <url>
         <loc>http://kshaffer.github.com/musi199/</loc>
-        <lastmod>2013-01-11T17:52:12-05:00</lastmod>
+        <lastmod>2013-01-14T16:04:50-05:00</lastmod>
         <changefreq>hourly</changefreq>
     </url>
     
     <url>
         <loc>http://kshaffer.github.com/musi199/about.html</loc>
-        <lastmod>2013-01-11T17:52:12-05:00</lastmod>
+        <lastmod>2013-01-14T16:04:50-05:00</lastmod>
         <changefreq>hourly</changefreq>
     </url>
     
     <url>
         <loc>http://kshaffer.github.com/musi199/blog.html</loc>
-        <lastmod>2013-01-11T17:52:12-05:00</lastmod>
+        <lastmod>2013-01-14T16:04:50-05:00</lastmod>
         <changefreq>hourly</changefreq>
     </url>
     
     
     <url>
-        <loc>http://kshaffer.github.com/musi199/assignments/For-Monday%2C-January-14</loc>
-        <lastmod>2013-01-11T00:00:00-05:00</lastmod>
+        <loc>http://kshaffer.github.com/musi199/assignments/For-January-22-%28Tuesday%29</loc>
+        <lastmod>2013-01-14T00:00:00-05:00</lastmod>
+        <changefreq>hourly</changefreq>
+    </url>
+    
+    <url>
+        <loc>http://kshaffer.github.com/musi199/assignments/For-January-18-%28Friday%29</loc>
+        <lastmod>2013-01-14T00:00:00-05:00</lastmod>
+        <changefreq>hourly</changefreq>
+    </url>
+    
+    <url>
+        <loc>http://kshaffer.github.com/musi199/assignments/For-January-17-%28Thursday%29</loc>
+        <lastmod>2013-01-14T00:00:00-05:00</lastmod>
+        <changefreq>hourly</changefreq>
+    </url>
+    
+    <url>
+        <loc>http://kshaffer.github.com/musi199/assignments/For-January-16-%28Wednesday%29</loc>
+        <lastmod>2013-01-14T00:00:00-05:00</lastmod>
         <changefreq>hourly</changefreq>
     </url>
     
     <url>
         <loc>http://kshaffer.github.com/musi199/assignments/For-Tuesday%2C-January-15</loc>
+        <lastmod>2013-01-11T00:00:00-05:00</lastmod>
+        <changefreq>hourly</changefreq>
+    </url>
+    
+    <url>
+        <loc>http://kshaffer.github.com/musi199/assignments/For-Monday%2C-January-14</loc>
         <lastmod>2013-01-09T00:00:00-05:00</lastmod>
         <changefreq>hourly</changefreq>
     </url>

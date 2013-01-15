@@ -81,7 +81,12 @@ Final grades for this category will be assigned according to the progress studen
 
 ### Technology ###
 
-During Unit I, student will be expected to demonstrate an ability to produce counterpoint exercises and bass-line transcriptions in a music notation application. Since this category is on-going, and will not be complete until the end of the term, no grade will be assigned at the end of Unit I.
+Students are expected to demonstrate an ability to do the following in *two* different music notation applications:
+
+- typeset a second-, third-, or fourth-species counterpoint exercise  
+- typeset a bass line transcription
+
+Since this category is on-going, and will not be complete until the end of the term, no grade will be assigned at the end of Unit I. However, all of the above must be successfully assessed during Unit I in order to receive full credit for the technology criterion at the end of the semester.
 
 
 [LC]: http://learningcatalytics.com

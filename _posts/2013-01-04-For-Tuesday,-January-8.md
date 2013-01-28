@@ -16,6 +16,7 @@ Purchase a headphone adapter, if you do not have one already. You need a 1/4" ma
 
 Bring staff paper to class.
 
+
 [intervals]: http://kshaffer.github.com/musicianshipResources/Intervals.html
 [motion]: http://kshaffer.github.com/musicianshipResources/motionTypes.html
 [LC]: http://learningcatalytics.com

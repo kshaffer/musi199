@@ -15,11 +15,11 @@ Unit I will cover the following three topics:
 
 Also included in this unit of study will be work that contributes to the semester-long *technology* topic.
 
-All strict voice-leading assessments must be completed by *Friday, February 1*.
+All strict voice-leading assessments must be completed by *Friday, February 1* at 4pm.
 
-Final rhythmic performance assessments will take place on *Tuesday, February 5*. (Students are encouraged to assess prior to that date.)
+Final rhythmic performance assessments will take place in class on *Tuesday, February 5*. (Students are encouraged to assess prior to that date.)
 
-All transcription work must be submitted by *Monday, February 5*.
+All transcription work must be submitted by *Monday, February 4* at midnight (the midnight that *begins* Monday—so that you can get some sleep before Monday morning's class).
 
 Work for each topic of study will be evaluated on a four-point scale: *mastery* (4), *working knowledge* (3), *incomplete understanding* (2), *poor understanding* (1), and *no significant attempt made* (0). Rubrics for each category are provided below. (For further information on how final grades are calculated, consult the course syllabus.)
 
@@ -65,19 +65,19 @@ Level 4: Rhythmic lines with level 4 characteristics, but introducing division-l
 
 ### Transcription ###
 
-The goal for this unit is for students to be able to transcribe the bass guitar part to any pop/rock song and the vocal bass part of a choral ensemble.
+The goal for this unit is for students to be able to transcribe the bass guitar part to any pop/rock song.
 
 Final grades for this category will be assigned according to the progress students have made towards this goal by the performance exam deadline, according to the following rubric.
 
-*Mastery (4)* – Student can transcribe a bass guitar part from a pop/rock song of a moderate or high degree of difficulty with minimal errors in pitch, rhythm, and register. Student can transcribe a vocal bass part from a recording of a choral work of a moderate degree of difficulty with minimal errors in pitch, rhythm, and register.
+*Mastery (4)* – Student can transcribe a bass guitar part from a pop/rock song with no errors.
 
-*Working knowledge (3)* – Student performs up to *mastery* standard in one genre, but has some difficulty with the other.
+*Working knowledge (3)* – Student can transcribe a bass guitar part from a pop/rock song of a moderate or high degree of difficulty with minimal errors in pitch, rhythm, and register.
 
-*Incomplete knowledge (2)* – Student demonstrates a moderate degree of difficulty with both genres.
+*Incomplete knowledge (2)* – Student can transcribe a bass guitar part from a pop/rock song with more than minimal errors. An example would be a transcription that is accurate for pitch and straight rhythms, but not syncopated rhythms; likewise one with perfect rhythm, but with some noticeable errors in pitch.
 
-*Poor knowledge (1)* – Student demonstrates significant difficulties with one or both genres.
+*Poor knowledge (1)* – Student demonstrates significant difficulties with the transcription.
 
-*No significant attempt made (0)* – Student does not assess this category, or performs below the standard for passing Musicianship I.
+*No significant attempt made (0)* – Self explanatory.
 
 ### Technology ###
 

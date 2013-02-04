@@ -15,7 +15,7 @@ Unit I will cover the following three topics:
 
 Also included in this unit of study will be work that contributes to the semester-long *technology* topic.
 
-All strict voice-leading assessments must be completed by *Tuesday, February 5* at 4pm.
+All strict voice-leading assessments must be completed by *Wednesday, February 6* at 4pm.
 
 Final rhythmic performance assessments will take place in class on *Tuesday, February 5*. (Students are encouraged to assess prior to that date.)
 

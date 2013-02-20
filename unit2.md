@@ -19,9 +19,9 @@ Also included in this unit of study will be work that contributes to the semeste
 
 Final assessment opportunities for *melodic performance* will take place in class on *Thursday, March 7*.
 
-Final assessment opportunities for *melodic listening* and *harmonic listening* will take place with an in-class dictation test on *Friday, March 8*.
+Final assessment opportunities for *melodic listening* and *harmonic listening* will take place during Unit III.
 
-Deadlines for *strict keyboard-style voice-leading* and *harmonic syntax* will be announced at a future date, but the plan is for all Unit II work to be completed before Spring Break (which begins March 9).
+Deadlines for *strict keyboard-style voice-leading* and *harmonic syntax* will be announced at a future date, but the plan is for all Unit II work (other than listening work) to be completed before Spring Break (which begins March 9).
 
 Work for each topic of study will be evaluated on a four-point scale: *mastery* (4), *working knowledge* (3), *incomplete understanding* (2), *poor understanding* (1), and *no significant attempt made* (0). Rubrics for each category are provided below. (For further information on how final grades are calculated, consult the course syllabus.)
 
@@ -51,10 +51,10 @@ Work in this category is divided into *basso continuo* realizations (no melody, 
 
 The following four categories of work will each earn the student a point when completed satisfactorily, according to the principles of voice-leading detailed on the Musicianship Resources website.
 
-- Compose *basso continuo* realizations for two figured bass lines, one in major and one in minor, with a partner, and perform those realizations as an individual.  
-- Compose and perform *basso continuo* realizations for two figured bass lines, one in major and one in minor, as an individual.  
-- Compose *melodic keyboard-style* realizations for two figured bass lines, one in major and one in minor, with a partner, and perform those realizations as an individual.  
-- Compose and perform *melodic keyboard-style* realizations for two figured bass lines, one in major and one in minor, as an individual.  
+- Compose and perform a *basso continuo* realization for a figured bass line in major.  
+- Compose and perform a *basso continuo* realization for a figured bass line in minor.  
+- Compose and perform a *melodic keyboard-style* realization for a figured bass line in major.  
+- Compose and perform a *melodic keyboard-style* realization for a figured bass line in minor.  
 
 A student's final grade for this criterion will simply be the number of these objectives passed by the end of Unit II. (Keep in mind that the last 2–3 days of class before Spring Break will be reserved for dictation and performance assessments.)
 

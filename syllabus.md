@@ -66,12 +66,12 @@ Musicianship II will be divided into three units. The first two will take place 
 - harmonic syntax  
 - strict keyboard-style voice leading  
 - melodic performance  
+- melodic listening  
 - harmonic listening  
 
 ### Unit III: ###
 
 - pop/rock form  
-- pop/rock harmony  
 - pop/rock voice-leading  
 - text–music relationships (in pop/rock and/or contemporary Christian worship music)  
 - writing about music

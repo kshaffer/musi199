@@ -68,9 +68,9 @@ This criterion will be assessed in the harmonic analyses performed on dictation 
 Final grades for this criterion will be determined by what of the following a student demonstrates an ability to do consistently (with minimal or no errors) by the end of Unit II. The number of the following four tasks mastered will be the final grade on a four-point scale:
 
 - Provide Roman numeral analyses of harmonic progressions represented by figured bass lines and by lead-sheet symbols.  
+- Provide *uninterpreted* functional-bass analyses of harmonies in figured bass lines.  
 - Provide *interpreted* functional-bass analyses of harmonic progressions represented by figured bass lines.  
 - Provide plausible interpreted functional-bass analyses of harmonic progressions represented by unfigured bass lines.  
-- Compose phrase-length harmonic progressions that follow the principles of good harmonic syntax.  
 
 
 ### Melodic listening ###

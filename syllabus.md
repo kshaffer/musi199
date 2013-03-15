@@ -48,7 +48,6 @@ The skills we will seek to develop are:
 - Composition of stylistically normative music (in classical and pop/rock styles)
 - Recognition of stylistically normative structures (by ear)
 - Analysis of harmonic and formal structures (by ear and with a score)
-- Writing about music
 
 
 # Units of study #
@@ -66,15 +65,14 @@ Musicianship II will be divided into three units. The first two will take place 
 - harmonic syntax  
 - strict keyboard-style voice leading  
 - melodic performance  
-- melodic listening  
-- harmonic listening  
 
 ### Unit III: ###
 
+- harmonic syntax (continued from Unit II)  
+- melodic listening  
+- harmonic listening  
 - pop/rock form  
 - pop/rock voice-leading  
-- text–music relationships (in pop/rock and/or contemporary Christian worship music)  
-- writing about music
 
 ### Semester-long: ###
 
@@ -93,7 +91,7 @@ The bulk of the assessment in this course will be *formative assessment* rather 
 
 Each unit's work will be evaluated in reference to each criterion on a four-point scale: *mastery* (4), *working knowledge* (3), *incomplete understanding* (2), *poor understanding* (1), and *no significant attempt made* (0).
 
-To receive an A or B in the course, a student must receive a 3 or 4 for every criterion. To receive a C in the course, a student must receive a 3 or 4 on 10 of the 13 categories and a 2 on the other(s).
+To receive an A or B in the course, a student must receive a 3 or 4 for every criterion. To receive a C in the course, a student must receive a 3 or 4 on 9 of the 12 categories and a 2 on the other(s).
 
 No late submissions or assessments will be allowed after unit deadlines, with the following exception: *each student will be allowed to submit work post-deadline for up to two criteria, but no more than one per unit*. This will be a one-shot deal—no continuous resubmitting. I want to provide you a balance of structure and freedom, and I hope this will be a helpful balance to keep everyone on task, but without a final-grade penalty for mastering something later than other students.
 

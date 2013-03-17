@@ -17,9 +17,9 @@ Unit III will cover the following five topics:
 
 Also included in this unit of study will be work that contributes to the semester-long *technology* topic.
 
-Final assessment opportunities for *melodic listening*, *harmonic listening*, and *harmonic syntax* will take place in a dictation exam during the *first exam slot for your section* during finals week.
+Final assessment opportunities for *melodic listening*, *harmonic listening*, and *harmonic syntax* will take place in a dictation exam during the *first exam slot for your section* during finals week (8am section – Monday, April 29, 8:30–10:30am; 10/11am section – Thursday, April 25, 12:30–2:30pm).
 
-Likewise, final assessment opportunities for *pop/rock form* will take place in an aural analysis exam during the *second exam slot for your section* during finals week.
+Likewise, final assessment opportunities for *pop/rock form* will take place in an aural analysis exam during the *second exam slot for your section* during finals week (8am section – Tuesday, April 30, 8:30–10:30am; 10/11am section – Friday, April 26, 8:30–10:30pm).
 
 *Pop/rock voice-leading* will be assessed via a final project that is due at the *beginning of the first exam slot for your section*.
 

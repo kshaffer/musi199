@@ -56,7 +56,7 @@ A student's grade for a dictation exercise will be the number of the following f
 - melody  
 - bass line  
 - chords (thoroughbass figures above the bass notes)  
-- harmonic functions (functional bass symbols below the bass notes)
+- harmonic functions (functional bass symbols below the bass notes—interpreted or uninterpreted will be accepted for credit, but aim for interpreted)
 
 There will be a final dictation test during finals week, which will determine students' final grades for this criterion. That test will contain multiple phrase-length progressions in major and in minor. The student's grade on that test will be the median score for all the progressions dictated, with the provision that the final grade cannot be higher than the highest score for a minor- or a major-key exercise. (In other words, if a student is better at major than minor, their final score cannot be higher than the score of their best minor-key exercise.)
 
@@ -72,9 +72,8 @@ This criterion will be assessed in the harmonic analyses performed on dictation 
 Final grades for this criterion will be determined by what of the following a student demonstrates an ability to do consistently (with minimal or no errors) by the end of the semester. The number of the following four tasks mastered will be the final grade on a four-point scale:
 
 - Provide Roman numeral analyses of harmonic progressions represented by figured bass lines and by lead-sheet symbols.  
-- Provide *uninterpreted* functional-bass analyses of harmonies in figured bass lines.  
+- Provide *uninterpreted* functional-bass analyses of harmonies in figured bass lines (worth two points).  
 - Provide *interpreted* functional-bass analyses of harmonic progressions represented by figured bass lines.  
-- Provide plausible interpreted functional-bass analyses of harmonic progressions represented by unfigured bass lines.  
 
 
 ### Pop/rock form ###

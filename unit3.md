@@ -51,12 +51,13 @@ Throughout Unit III, we will do some in-class dictation practice, and students w
 
 The objective for harmonic listening is for all students to listen to a phrase-long chord progression that includes the most common diatonic chords and reliably dictate the melody, bass line, and harmonic content.
 
-A student's grade for a dictation exercise will be the number of the following four elements that the student can dictate with minimal or no errors after four hearings:
+A student's grade for a dictation exercise will be based on which of the following three elements that the student can dictate with minimal or no errors after four hearings:
 
 - melody  
 - bass line  
-- chords (thoroughbass figures above the bass notes)  
 - harmonic functions (functional bass symbols below the bass notes—interpreted or uninterpreted will be accepted for credit, but aim for interpreted)
+
+Grades will be on a four-point scale: melody and bass line are each worth 1.5 points; harmonic functions are worth 1 point.
 
 There will be a final dictation test during finals week, which will determine students' final grades for this criterion. That test will contain multiple phrase-length progressions in major and in minor. The student's grade on that test will be the median score for all the progressions dictated, with the provision that the final grade cannot be higher than the highest score for a minor- or a major-key exercise. (In other words, if a student is better at major than minor, their final score cannot be higher than the score of their best minor-key exercise.)
 

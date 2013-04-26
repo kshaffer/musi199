@@ -10,7 +10,7 @@ Create a timeline in Variations Audio Timeliner of the following three songs:
 
 - 867-5309/Jenny (Tommy Tutone)  
 - A Hard Day's Night (The Beatles)  
-- Blue Sueded Shoes (Carl Perkins)
+- Blue Suede Shoes (Carl Perkins)
 
 Audio for these songs can be found in the [199Shared][share] folder, in a subfolder called **199-1 final.**
 

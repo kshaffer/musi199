@@ -6,6 +6,7 @@ layout: page
 ---
 
 
+
 # General course description #
 
 Course title: Musicianship II  
